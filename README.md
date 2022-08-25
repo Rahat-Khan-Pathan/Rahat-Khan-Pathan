@@ -8,22 +8,22 @@
 - ⚡ Fun fact: I love to solve programming problems
 ### Connect with me:
 
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left"  width="22px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/facebook.png" alt="Facebook"/>][facebook]
 
 <a href="https://www.linkedin.com/in/rahat-khan-pathan/">
-    ![Linkedin](<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />)
+    <img align="left"  width="22px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png" alt="Linkedin"/>
 </a>
 <br />
 <br />
 
 <a href="https://codeforces.com/profile/rahat_khan_pathan">
-   ![Codeforces max rating](https://raw.githubusercontent.com/rahat-khan-pathan/ct-stats/main/output/max_rating.svg)
+   <img src="https://raw.githubusercontent.com/rahat-khan-pathan/ct-stats/main/output/max_rating.svg" />
 </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahat-khan-pathan&label=Profile%20views&color=0e75b6&style=flat" alt="Rahat Khan Pathan" /> </p>
 
 <b>&#128200; Competitive Programming</b>
 <p float="left">
-<img height="280em" src="https://github.com/Rahat-Khan-Pathan/ct-stats/blob/main/output/light_card.svg#gh-dark-mode-only" />
+<img height="280em" src="https://raw.githubusercontent.com/rahat-khan-pathan/ct-stats/main/output/light_card.svg#gh-dark-mode-only" />
 </p>
 
 ### Languages and Tools:
