@@ -11,13 +11,13 @@
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <a href="https://www.linkedin.com/in/rahat-khan-pathan/">
-    <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    ![Linkedin](<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />)
 </a>
 <br />
 <br />
 
 <a href="https://codeforces.com/profile/rahat_khan_pathan">
-   <img src="https://github.com/Rahat-Khan-Pathan/ct-stats/blob/main/output/max_rating.svg" alt="Codeforces max rating" />
+   ![Codeforces max rating](https://raw.githubusercontent.com/rahat-khan-pathan/ct-stats/main/output/max_rating.svg)
 </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahat-khan-pathan&label=Profile%20views&color=0e75b6&style=flat" alt="Rahat Khan Pathan" /> </p>
 
