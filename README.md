@@ -12,7 +12,7 @@
 <br />
 
  <a href="https://codeforces.com/profile/rahat_khan_pathan">
-    ![](https://raw.githubusercontent.com/rahat-khan-pathan/cf-stats/main/output/max_rating.svg)
+    <img src="https://raw.githubusercontent.com/rahat-khan-pathan/cf-stats/main/output/max_rating.svg" alt="Codeforces max rating" />
   </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahat-khan-pathan&label=Profile%20views&color=0e75b6&style=flat" alt="Rahat Khan Pathan" /> </p>
 
