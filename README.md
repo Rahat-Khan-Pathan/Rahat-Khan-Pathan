@@ -11,9 +11,15 @@
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 <br />
 
-
+ <a href="https://codeforces.com/profile/sudipto.me">
+    <img src="https://raw.githubusercontent.com/rahat_khan_pathan/cf-stats/main/output/rating.svg" alt="Leet code rating" />
+  </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahat-khan-pathan&label=Profile%20views&color=0e75b6&style=flat" alt="Rahat Khan Pathan" /> </p>
 
+<b>&#128200; Competitive Programming</b>
+<p float="left">
+<img height="280em" src="https://raw.githubusercontent.com/rahat_khan_pathan/cf-stats/main/output/light_card.svg" />
+</p>
 
 ### Languages and Tools:
 
