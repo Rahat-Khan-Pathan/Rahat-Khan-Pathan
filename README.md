@@ -18,7 +18,7 @@
 
 <b>&#128200; Competitive Programming</b>
 <p float="left">
-<img height="280em" src="https://github.com/Rahat-Khan-Pathan/ct-stats/blob/main/output/light_card.svg" />
+<img height="280em" src="https://github.com/Rahat-Khan-Pathan/ct-stats/blob/main/output/light_card.svg#gh-dark-mode-only" />
 </p>
 
 ### Languages and Tools:
