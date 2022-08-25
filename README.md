@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love to solve programming problems
 ### Connect with me:
 
-[<img align="left"  width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="center"  width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <a href="https://www.linkedin.com/in/rahat-khan-pathan/">
     <img align="left"  width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
