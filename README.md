@@ -9,10 +9,11 @@
 ### Connect with me:
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-<br />
+
 <a href="https://www.linkedin.com/in/rahat-khan-pathan/">
     <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<br />
 
 <a href="https://codeforces.com/profile/rahat_khan_pathan">
    <img src="https://github.com/Rahat-Khan-Pathan/ct-stats/blob/main/output/max_rating.svg" alt="Codeforces max rating" />
