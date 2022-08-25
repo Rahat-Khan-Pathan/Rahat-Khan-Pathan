@@ -22,7 +22,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahat-khan-pathan&label=Profile%20views&color=0e75b6&style=flat" alt="Rahat Khan Pathan" /> </p>
 
 <b>&#128200; Competitive Programming</b>
-<p float="left">
+<p>
 <img height="280em" src="https://raw.githubusercontent.com/rahat-khan-pathan/ct-stats/main/output/light_card.svg#gh-dark-mode-only" />
 </p>
 
