@@ -23,7 +23,9 @@
 
 <b>&#128200; Competitive Programming</b>
 <br />
-<img align="left" src="https://raw.githubusercontent.com/rahat-khan-pathan/ct-stats/main/output/light_card.svg" alt="Statistics"/>
+<p float="left">
+    <img align="left" src="https://raw.githubusercontent.com/rahat-khan-pathan/ct-stats/main/output/light_card.svg" alt="Statistics"/>
+</p>
 
 ### Languages and Tools:
 
