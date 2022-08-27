@@ -24,7 +24,7 @@
 <b>&#128200; Competitive Programming</b>
 <br />
 <p float="left">
-    <img align="left" src="https://raw.githubusercontent.com/rahat-khan-pathan/ct-stats/main/output/light_card.svg" alt="Statistics"/>
+    <img src="https://raw.githubusercontent.com/rahat-khan-pathan/ct-stats/main/output/light_card.svg" alt="Statistics"/>
 </p>
 <br/>
 <br/>
