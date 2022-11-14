@@ -1,9 +1,7 @@
 ### Hi there, I'm Rahat Khan Pathan 👋
 
-## I'm a Learner, Developer, and Teacher!!
+## I'm a Learner, Problem Solver, Developer, and Teacher!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developer
 - 🥅 2020 Goals: To solve 1000+ problems and participate ICPC Regional (Done both)
 - 🥅 2021 Goals: To get codeforces specialist and get a job (Done both)
 - 🥅 2022 Goals: To crack tech giant (Microsoft cracked and recommended as Junior Software Engineer)
