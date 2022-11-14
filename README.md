@@ -8,7 +8,6 @@
 - 🥅 2021 Goals: To get codeforces specialist and get a job (Done both)
 - 🥅 2022 Goals: To crack tech giant (Microsoft cracked and recommended as Junior Software Engineer)
 - 🥅 2023 Goals: To bring love of my life home (Preparation going on...)
-- ⚡ Learn fact: I love to solve programming problems
 ### Connect with me:
 
 [<img align="left"  width="30px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/facebook.png" alt="Facebook"/>][facebook]
