@@ -2,8 +2,9 @@
 
 ## I'm a Learner, Problem Solver, Developer, and Teacher!!
 
-- 🥅 2020 Goals: To solve 1000+ problems and participate ICPC Regional (Done both)
-- 🥅 2021 Goals: To become codeforces specialist, solve 2000+ problems, learn web development and get a job (Done all)
+- 🥅 2019 Goals: To solve 1000+ problems and participate ICPC Dhaka Regional (Done both)
+- 🥅 2020 Goals: To become codeforces pupil and solve 2000+ problems (Done both)
+- 🥅 2021 Goals: To become codeforces specialist, learn web development and get a job (Done all)
 - 🥅 2022 Goals: To crack tech giant (Microsoft cracked and recommended as Junior Software Engineer)
 - 🥅 2023 Goals: To bring love of my life home (Preparation going on...)
 ### Connect with me:
