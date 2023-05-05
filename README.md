@@ -6,8 +6,9 @@
 - 🥅 2020 Goals: To become codeforces pupil and solve 2000+ problems (Done both)
 - 🥅 2021 Goals: To become codeforces specialist, learn web development and get a job (Done all)
 - 🥅 2022 Goals: To crack tech giant (Microsoft cracked and recommended as Software Engineer)
-- 🥅 2023 Goals: To bring love of my life home (Done)
-- 🥅 2024 Goals: Make her dream true -> Switzerland
+- 🥅 2023 Goals: To bring love of my life home (Almost Done)
+
+
 ### Connect with me:
 
 [<img align="left"  width="30px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/facebook.png" alt="Facebook"/>][facebook]
