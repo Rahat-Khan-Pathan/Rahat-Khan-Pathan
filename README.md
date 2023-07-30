@@ -6,7 +6,7 @@
 - 🥅 2020 Goals: To become codeforces pupil and solve 2000+ problems (Done both)
 - 🥅 2021 Goals: To become codeforces specialist, learn web development and get a job (Done all)
 - 🥅 2022 Goals: To crack tech giant (Microsoft cracked and recommended as Software Engineer)
-- 🥅 2023 Goals: To bring love of my life home (Almost Done)
+- 🥅 2023 Goals: To bring love of my life home (Done)
 
 
 ### Connect with me:
