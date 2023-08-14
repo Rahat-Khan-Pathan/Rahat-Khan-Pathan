@@ -7,6 +7,7 @@
 - 🥅 2021 Goals: To become codeforces specialist, learn web development and get a job (Done all)
 - 🥅 2022 Goals: To crack tech giant (Microsoft cracked and recommended as Software Engineer)
 - 🥅 2023 Goals: To bring love of my life home (Done)
+- 🥅 2024 Goals: Become a backend engineer
 
 
 ### Connect with me:
